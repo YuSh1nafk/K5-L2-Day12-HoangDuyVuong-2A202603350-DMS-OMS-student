@@ -1,4 +1,4 @@
-# Tự đánh giá — <Họ tên> · <Gxx>
+# Tự đánh giá — Hoàng Duy Vương · G07
 
 ## 1. Tự rà soát 4 cảnh
 
@@ -15,12 +15,12 @@ Loại lỗi: `seat_flip`, `wrong_class`, `guess`, `box`, `missing`, `extra`, `l
 
 ## 2. Lỗi mình lặp lại nhiều nhất hôm nay
 
-Lỗi: …
+Lỗi: không
 
-Vì sao mình mắc: …
+Vì sao mình mắc: không
 
-Lần sau tránh bằng cách: …
+Lần sau tránh bằng cách: 
 
 ## 3. Ghi chú về disagreement_log
 
-Một dòng bạn của mình đúng và mình sai. Mình học được gì từ dòng đó: …
+Một dòng bạn của mình đúng và mình sai. Mình học được gì từ dòng đó: Không

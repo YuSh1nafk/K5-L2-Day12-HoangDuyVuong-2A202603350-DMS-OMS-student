@@ -6,4 +6,4 @@ Nhắc lại: không đưa ảnh cabin hay ảnh tài xế (kể cả ảnh ch�
 
 | # | Công cụ | Bạn hỏi gì (tóm tắt) | Bạn dùng kết quả thế nào | Bạn có kiểm lại không? Bằng gì? |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | claude Pro | Tách 26 ảnh thành 2 file 22 và 4 ảnh | cho vô để chạy | không cần kiểm vì đúng kết quả |
