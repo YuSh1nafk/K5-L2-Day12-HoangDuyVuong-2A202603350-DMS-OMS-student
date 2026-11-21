@@ -28,7 +28,7 @@ Nén cả thư mục thành `K5-L2-DAY12-<HoVaTen>-<MSSV>-DMSOMS.zip` rồi nộ
 
 | Mã | File | Coach kiểm bằng gì |
 |---|---|---|
-| E1 | `export_final.zip` (+ `_v2`) | Chạy `cabin_check check --expect 22` |
+| E1 | `HoangDuyVUong_export_final.zip` (+ `_v2`) | Chạy `cabin_check check --expect 22` |
 | E2 | `check_cpA.txt`, `check_cpB.txt`, `check_final.txt` | Kiểm đúng phạm vi ở từng checkpoint, sửa các lỗi trước lần kiểm cuối và giải thích các cảnh báo còn lại |
 | E3 | `disagreement_log.csv` | Ít nhất 5 dòng đã xử lý (hoặc tất cả nếu ít hơn 5) |
 | E4 | `ir_log.csv` | Ít nhất 4 quan sát; cột `source` tách `real_IR` (D##) và `IR_sim` (S##) |

@@ -19,7 +19,7 @@ Hết buổi, bạn làm được những việc sau:
 | **2 · DMS tài xế** | D01–D06: 6 khung NIR | `person`, `face` đủ thuộc tính, `face13`, `hand`, `phone` | Checkpoint B, phần IR thật của `ir_log` |
 | **3 · Review chéo + sửa** | cả 22 | `cabin_check diff` với một bạn cùng mã `Gxx`, xử lý từng dòng bất đồng theo guideline, sửa, export lại | `disagreement_log.csv`, `export_final_v2.zip` nếu đã sửa |
 | **4 · Danh sách lớp v0** | — | Viết tiếp danh sách lớp từ slide 54, kèm 2 câu hỏi leo thang | `class_list_v0.md` |
-| Mở rộng (tùy chọn) | S09–S10 | Tạo task riêng `Day12-Gxx-extra` (4 ảnh) trong cùng project. Xem [§5 Lộ trình](#5-ba-lộ-trình) | `export_extra.zip` |
+| Mở rộng (tùy chọn) | S09–S10 | Tạo task riêng `Day12-Gxx-extra` (4 ảnh) trong cùng project. Xem [§5 Lộ trình](#5-ba-lộ-trình) | `HoangDuyVuong_export_extra.zip` |
 
 **Lịch trong buổi:**
 

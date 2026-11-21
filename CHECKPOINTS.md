@@ -55,17 +55,17 @@ Muốn soát lại cả phần OMS đã làm: chạy thêm `--only S01,S02,S03,S
 ## Lần cuối — 16:50
 
 ```bash
-python scripts/cabin_check.py check export_final.zip --expect 22 --manifest Gxx/oms/manifest.csv --out check_final.txt
+python scripts/cabin_check.py check HoangDuyVUong_export_final.zip --expect 22 --manifest Gxx/oms/manifest.csv --out check_final.txt
 ```
 
-- **Sản phẩm:** `export_final.zip` (E1), `check_final.txt` (E2).
+- **Sản phẩm:** `HoangDuyVUong_export_final.zip` (E1), `check_final.txt` (E2).
 - **Yêu cầu:** dòng cuối là `Kết quả: 0 lỗi`. Mỗi cảnh báo còn lại có một dòng giải thích ở cuối `check_final.txt` (mở file và gõ thêm).
 - Task chính chỉ có 22 ảnh cốt lõi (GUIDE Task 0), nên không cần `--only`. Nếu làm phần mở rộng S09–S10 ở task riêng, kiểm file đó bằng `--expect 4 --out check_extra.txt`.
 
 ## Review chéo — 17:05
 
 ```bash
-python scripts/cabin_check.py diff export_final.zip peer_export_final.zip --csv disagreement_log.csv
+python scripts/cabin_check.py diff HoangDuyVUong_export_final.zip peer_export_final.zip --csv disagreement_log.csv
 ```
 
 1. Mở `disagreement_log.csv` (Excel hoặc trình soạn thảo). Với mỗi dòng (ít nhất 5 dòng, hoặc tất cả nếu ít hơn 5), cùng bạn điền:
